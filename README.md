@@ -1,13 +1,15 @@
-<h1>𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋</h1>
+# 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋
 
 <br />
 <!-- <a id="My-Works"></a> -->
 <!-- ### 𝐌𝐲 𝐖𝐨𝐫𝐤𝐬: -->
 
 <a id="My-stats"></a>
-### 𝐌𝐲 𝐬𝐭𝐚𝐭𝐬
+## 𝐌𝐲 𝐬𝐭𝐚𝐭𝐬
 <span><img src="https://github-readme-stats.vercel.app/api?username=huoshicang&count_private=true&show_icons=true&theme=flag-india" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huoshicang&layout=compact" height=145/></span>
 
+## 𝐖𝐞𝐞𝐤𝐥𝐲 𝐜𝐨𝐝𝐢𝐧𝐠 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
+<!--START_SECTION:waka-->
 ```text
 JSON         44 mins         █████████░░░░░░░░░░░░░░░░   35.45 %
 JavaScript   31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
