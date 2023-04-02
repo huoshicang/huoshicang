@@ -1,29 +1,31 @@
 # 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋
 
-<br />
-<!-- <a id="My-Works"></a> -->
-<!-- ### 𝐌𝐲 𝐖𝐨𝐫𝐤𝐬: -->
 
-<a id="My-stats"></a>
-## 𝐌𝐲 𝐬𝐭𝐚𝐭𝐬
-<span><img src="https://github-readme-stats.vercel.app/api?username=huoshicang&count_private=true&show_icons=true&theme=flag-india" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huoshicang&layout=compact" height=145/></span>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天，也要快乐。&center=true&size=27"> </a> </h1>
 
-## 𝐖𝐞𝐞𝐤𝐥𝐲 𝐜𝐨𝐝𝐢𝐧𝐠 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center"> <img src="https://metrics.lecoq.io/huoshicang?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
-<!--
-**Jiaocz/Jiaocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=huoshicang" /> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+<summary style="font-size:2em;">拥挤</summary>
+<div align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=huoshicang&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
+</div>
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td>
+            <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=huoshicang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+        </td>
+        <td>
+            <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huoshicang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+        </td>
+    </tr>
+    </table>
+</html>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=huoshicang" /> </div>
+</details>
